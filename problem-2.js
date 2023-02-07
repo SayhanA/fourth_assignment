@@ -104,3 +104,6 @@ function gemsToDiamond(firstFriend, secondFriend, thirdFriend) {
         return 'Your input must be Number'
     }
 }
+
+
+
